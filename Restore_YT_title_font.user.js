@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Restore Youtube title fonts
 // @namespace    https://twitter.com/oz0820
-// @version      0.1
+// @version      0.2
 // @description  Youtubeのクソダサタイトルフォントを元に戻します。
 // @author       oz0820
 // @updateURL    https://raw.githubusercontent.com/oz0820/Restore_YT_title_font/main/Restore_YT_title_font.user.js
